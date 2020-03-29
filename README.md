@@ -13,5 +13,8 @@ in a Live Runtime how the things Happen behind the scenes.</h4>
 </ol>
 <br>
 
-Run the Utility File in order to start learning and Exporing.
-P.S: For now only Trees and its Questions Have Been Put up. Gradually few changes will come up.
+Run the Utility File in order to start learning and Exporing.<br>
+P.S: For now only Trees and its Questions Have Been Put up. Gradually few changes will come up.<br>
+
+Also Feel free to contribute to the development.<br>
+Contact: shashi.chandra101@gmail.com
